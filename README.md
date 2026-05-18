@@ -122,3 +122,10 @@ flutter build ios --release
 ## 📄 License
 
 MIT
+
+## SCREENSHOTS
+![search](SEARCH.jpg) 
+![home](HOME.jpg) 
+![edit](EDIT.jpg)
+ ![delete](DELETE.jpg)
+  ![add](ADD.jpg)
